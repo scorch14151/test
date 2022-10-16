@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: 172.31.30.43
   become: yes
 
   tasks: creating folder
