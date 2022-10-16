@@ -1,0 +1,6 @@
+---
+- hosts: localhost
+  become: yes
+
+  tasks: creating folder
+  command: mkdir devtask
